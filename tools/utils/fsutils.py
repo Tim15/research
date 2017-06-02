@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 def rline(file, line):
     """Deletes line from file"""
     with open(file, "r") as input:

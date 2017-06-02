@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-#!/usr/bin/env python
 if __name__ == "__main__":
     import anyfile
     with anyfile.AnyFile("./tests.py") as a:
